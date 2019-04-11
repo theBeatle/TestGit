@@ -11,6 +11,7 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Vitalik!   ");
+            Console.WriteLine("OneTwo");
         }
     }
 }
