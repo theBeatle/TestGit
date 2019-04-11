@@ -10,6 +10,11 @@ namespace Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sdsdaasdsa");
+        }
+
+        static void Somemethod()
+        {
         }
     }
 }
