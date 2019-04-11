@@ -10,20 +10,6 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("OneTwoThree");
-            Console.WriteLine("sdsdaasdcsfsdfsa");
-        }
-
-        static void Somemethod()
-        {
-            Console.WriteLine("OneTwocxzcxzccxzcxcxczcxcxczccxxzcxzxcxcxcxxcxc");
-            Console.WriteLine("Hello Vitalik!   ");
-            Console.WriteLine("OneTwo");
-            Console.WriteLine("OneTwoThree");
-            Console.WriteLine("OneTwoThreeFour");
-            Console.WriteLine("Hello Vitalik!");
-            Console.WriteLine("Helllllllll");
-            Console.WriteLine("Hello Mans!You are lucky");
         }
     }
 }
