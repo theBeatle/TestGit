@@ -11,7 +11,7 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("OneTwoThree");
-            Console.WriteLine("sdsdaasdsa");
+            Console.WriteLine("sdsdaasdcsfsdfsa");
         }
 
         static void Somemethod()
@@ -21,6 +21,8 @@ namespace Git
             Console.WriteLine("OneTwo");
             Console.WriteLine("OneTwoThree");
             Console.WriteLine("OneTwoThreeFour");
+            Console.WriteLine("Hello Vitalik!");
+            Console.WriteLine("Helllllllll");
         }
     }
 }
