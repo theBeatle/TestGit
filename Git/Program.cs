@@ -23,6 +23,7 @@ namespace Git
             Console.WriteLine("OneTwoThreeFour");
             Console.WriteLine("Hello Vitalik!");
             Console.WriteLine("Helllllllll");
+            Console.WriteLine("Hello Mans!You are lucky");
         }
     }
 }
