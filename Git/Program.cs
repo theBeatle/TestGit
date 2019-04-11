@@ -11,14 +11,18 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("OneTwoThree");
-            Console.WriteLine("sdsdaasdsa");
+            Console.WriteLine("sdsdaasdcsfsdfsa");
         }
 
         static void Somemethod()
         {
             Console.WriteLine("OneTwocxzcxzccxzcxcxczcxcxczccxxzcxzxcxcxcxxcxc");
             Console.WriteLine("Hello Vitalik!   ");
+            Console.WriteLine("Hello Vitalik!  sdlkfnsdkjlvn ");
             Console.WriteLine("OneTwo");
+            Console.WriteLine("OneTwoThree");
+            Console.WriteLine("Hello Vitalik!");
+            Console.WriteLine("Helllllllll");
             Console.WriteLine("Hello Mans!You are lucky");
         }
     }
