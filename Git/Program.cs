@@ -10,8 +10,17 @@ namespace Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("OneTwoThree");
+            Console.WriteLine("sdsdaasdsa");
+        }
+
+        static void Somemethod()
+        {
+            Console.WriteLine("OneTwocxzcxzccxzcxcxczcxcxczccxxzcxzxcxcxcxxcxc");
+            Console.WriteLine("Hello Vitalik!   ");
             Console.WriteLine("Hello Vitalik!  sdlkfnsdkjlvn ");
             Console.WriteLine("OneTwo");
+            Console.WriteLine("OneTwoThree");
         }
     }
 }
