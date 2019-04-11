@@ -15,6 +15,7 @@ namespace Git
 
         static void Somemethod()
         {
+            Console.WriteLine("OneTwocxzcxzccxzcxcxczcxcxczccxxzcxzxcxcxcxxcxc");
         }
     }
 }
